@@ -5,6 +5,7 @@ wordcloud
 matplotlib
 datetime
 plotly
+legacy-cgi
 pypdf2
 nltk
 textblob

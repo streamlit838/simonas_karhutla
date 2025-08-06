@@ -1,0 +1,15 @@
+streamlit
+pandas
+pillow
+wordcloud
+matplotlib
+datetime
+plotly
+pypdf2
+nltk
+textblob
+openpyxl
+python-docx
+googletrans==4.0.0-rc1
+xlsxwriter==3.0.8
+vadersentiment
